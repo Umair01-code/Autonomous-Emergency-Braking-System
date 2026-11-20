@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+runs/
+*.avi
+
+.ipynb_checkpoints/
+
+data/
+AEB_integrated_results.csv
+AEB_results.csv
+
+# Optional: exclude large input videos
+# input/*.mp4
